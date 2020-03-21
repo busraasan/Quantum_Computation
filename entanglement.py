@@ -1,10 +1,6 @@
 # import all necessary objects and methods for quantum circuits
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit, execute, Aer
 
-#
-# your code is here
-#
-
 qreg = QuantumRegister(2)
 creg = ClassicalRegister(2)
 
